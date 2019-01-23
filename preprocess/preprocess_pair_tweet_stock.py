@@ -35,14 +35,17 @@ for (index, row) in twitter.iterrows():
 
 DAYS_IN_ADVANCE = 100
 
-csvfile = open('../data/twitter/paired_stock_twitter.csv', newline = '')
+csvfile = open('../data/twitter/paired_stock_twitter.csv', 'w', newline = '')
 writer = csv.writer(csvfile)
 
 sentiment_list = []
 for i in range(DAYS_IN_ADVANCE):
 	sentiment_list += ['pos_'+str(i), 'neu_'+str(i), 'neg_'+str(i)]
 
+tickers = [i.lower() for i in tickers]
+
 writer.writerow([i for i in range(DAYS_IN_ADVANCE)] + sentiment_list + ['next', 'updown', 'ticker', 'startdate'])
+print('Starting...')
 startTime = time.time()
 for (index, row) in stock.iterrows():
 	if row['ticker'] not in tickers:
@@ -52,12 +55,12 @@ for (index, row) in stock.iterrows():
 	toWrite = []
 	for i in range(DAYS_IN_ADVANCE):
 		toWrite.append(row[str(i)])
-	rowNumberOn = 0
 
-	for (index2, row2) in tickerDfs[row['ticker']]:
+	rowNumber = 0
+	for (index2, row2) in tickerDfs[row['ticker'].upper()].iterrows():
 		if row2['date'] == row['startdate']:
-			rowNumberOn = 1
-		if rowNumberOn == 0: continue
+			rowNumber = 1
+		if rowNumber == 0: continue
 		toWrite.append(row2['pos'])
 		toWrite.append(row2['neu'])
 		toWrite.append(row2['neg'])
@@ -76,7 +79,8 @@ for (index, row) in stock.iterrows():
 
 	print(str(round(100*index/tot_length, 2)) + '% done... (' + str(round(time.time() - startTime)) + ' seconds elapsed)') 
 
-	if index == 10: break
+	if index == 1000:
+		break
 
 print('Completed!')
 print('Closing files...')

@@ -27,6 +27,7 @@ rmse = np.float64(0)
 for row in reader:
 	numbers = [float(i) for i in row[1:DAYS_IN_ADVANCE+1]]
 	m, b = linear_regression(np.array(range(100)), np.array(numbers))
+	diff = 100*m + b - np.float64(row[DAYS_IN_ADVANCE+1])
 	rmse += (100*m + b - np.float64(row[DAYS_IN_ADVANCE+1]))**2
 	
 	index += 1

@@ -8,7 +8,8 @@ tf.logging.set_verbosity(tf.logging.INFO)
 # Read data
 df = pandas.read_csv('../data/twitter/paired_stock_twitter.csv')
 # Drop unneeded columns
-df.drop(['ticker', 'startdate', 'updown'], axis = 1, inplace = True)
+df.drop(['ticker', 'startdate', 'next'], axis = 1, inplace = True)
+df['updown'] = (df['updown']+1)/2
 
 DAYS_IN_ADVANCE = 100
 
@@ -39,7 +40,7 @@ def make_input_fn(which, num_epochs):
 		batch_size = len(test)
 	return tf.estimator.inputs.pandas_input_fn(
 			x = data[list(featcols.keys())],
-			y = data['next'],
+			y = data['updown'],
 			batch_size = batch_size,
 			num_epochs = num_epochs,
 			shuffle = True,
