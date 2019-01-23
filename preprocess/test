@@ -1,0 +1,2100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.1//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="True" name="HandheldFriendly"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
+  <link href="https://twitter.com/search?q=aapl" rel="canonical"/>
+  <meta content="twitter://search?query=AAPL" name="twitter-redirect-url"/>
+  <meta content='{"pwreset-iphone":true,"android":true,"email":true}' name="twitter-redirect-srcs"/>
+  <link href="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/favicon.ico" rel="icon" type="image/x-icon"/>
+  <title>
+   Search Twitter - AAPL
+  </title>
+  <link href="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/assets/a.css" inline="false" media="screen" rel="stylesheet" type="text/css"/>
+  <script src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/javascripts/framebust.js" type="text/javascript">
+  </script>
+  <script async="" defer="" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/javascripts/serviceworker.js" type="text/javascript">
+  </script>
+  <meta content="V0yIS0Ec_o3Ii9KThrCoMCkwTYMMJ_JYx_RSaGhFYvw" name="google-site-verification"/>
+  <meta content='{"m2_mmw_scribe_get_url":true}' name="deciders"/>
+ </head>
+ <body class="images nojs searches-page searches-show-page">
+  <div id="container">
+   <div id="brand_bar">
+    <table id="top">
+     <tr>
+      <td class="left">
+       <a class="brandmark" href="/">
+        <img alt="Twitter" height="28" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/larry_28px.gif"/>
+       </a>
+      </td>
+      <td class="right">
+       <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/brandbar_divider.gif"/>
+       <a class="search" href="#search">
+        <img alt="Search" height="28" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/search_28px.gif"/>
+       </a>
+       <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/brandbar_divider.gif"/>
+       <a class="signin" href="/session/new">
+        <span>
+         Log in
+        </span>
+       </a>
+       <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/brandbar_divider.gif"/>
+       <a href="/signup">
+        <span class="signup">
+         Sign up
+        </span>
+       </a>
+      </td>
+     </tr>
+    </table>
+   </div>
+   <div id="main_content">
+    <div class="searches">
+     <div class="searches-header">
+      <table>
+       <tr>
+        <td>
+         <span class="label">
+          Search
+         </span>
+        </td>
+        <td class="r">
+         <a href="/search?q=AAPL&amp;s=typd&amp;prev_cursor=thGAVUV0VFVBaAwKLZi_7M9B0WgMCi2Yv-zPQdEhjIBQQ9VDthRbvUAAAAAAAAFXwAAAAHAAAAVgBBAAAAAACAAAAAgAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAACAIAAAQAAAAAAAAAgAAQAAAAAAAAAAgAAAAABEAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAIAQAAAAAAAAAAgAAAAQAAAAAIAAAAAAAAAAAAAAAgAAAAEAEAAAIAAAAAAAACAAAAAAAAAAAAAAAAgAAAAFAAIACEQAAAAAAAAACAgAAAAAAAAAAAIAAAAAgAAAAQAAgAAAAAAAAAgAAAAAAAAAIAQAAAABACAEAAAAABAAAAAAACkAICAAAAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAAABIAAIAAAQAAAAAAAAAAAAAAIAAAAAAAAAAAAQAICAAAQAAAGAAAAAAAAAAAAAAAAAAAIAIAAAQAAAAAIAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAACAAAgAACCAAAAAAAAAAAAAEAAAAIAAAAAAAwAAAAAAAAAAAAAAMABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAAEAAIAAAAACAAAAAAAAAAAABAAAAAAAYAAAAAAAAEAAAAAAAIAAAAAAAAACAAAAAAAAAgQAAAAAAACAAAAAAAAAAAAAAAABAAAAAIAAAAAAIAAYAAAAAAAAIAQIEAAAAAEIAAAAIAAAAAAAAAEAAAACAAAAgAAAAQAAAAAAAAACIQAAAAAAAABAAAAEAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAAAAABAIAAEAgAEAAAAAAAAAAAgAIAAAAAAAAAAAAAMAAgEAAAIAAAAVABUAFQAlAAA%3D">
+          Refresh
+         </a>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div class="fields">
+      <div class="search-fields">
+       <form action="/search" class="search-input" method="get">
+        <table>
+         <tr>
+          <td class="value" id="search">
+           <div>
+            <input id="q" name="q" type="text" value="AAPL"/>
+           </div>
+          </td>
+          <td class="button">
+           <input name="s" type="hidden" value="typd"/>
+           <input alt="Search" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/magnifying_glass.gif" type="image"/>
+          </td>
+         </tr>
+        </table>
+       </form>
+       <div class="hint">
+        <label for="q">
+         Enter a topic, @name, or fullname
+        </label>
+       </div>
+      </div>
+     </div>
+     <div class="timeline">
+      <table class="tweet " href="/themotleyfool/status/1075472115376238592?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/themotleyfool?p=i">
+          <img alt="The Motley Fool" src="https://pbs.twimg.com/profile_images/563716194323025921/OthWJnik_normal.png"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/themotleyfool?p=s">
+          <strong class="fullname">
+           The Motley Fool
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           themotleyfool
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/themotleyfool/status/1075472115376238592?p=p" name="tweet_1075472115376238592">
+          Dec 19
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1075472115376238592">
+          <div class="dir-ltr" dir="ltr">
+           "Nobody buys a farm based on whether they think it's going to rain next year or not. They buy it because they think it's a good investment over 10 or 20 years.” — Warren Buffett on
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link" data-expanded-url="https://www.fool.com/investing/2018/12/17/the-1-buffett-stock-id-buy-right-now.aspx" data-url="https://www.fool.com/investing/2018/12/17/the-1-buffett-stock-id-buy-right-now.aspx" dir="ltr" href="https://t.co/zmQLCbzjgr" rel="nofollow noopener" target="_blank" title="https://www.fool.com/investing/2018/12/17/the-1-buffett-stock-id-buy-right-now.aspx">
+            fool.com/investing/2018…
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <span class="metadata">
+          <a href="/themotleyfool/status/1075472115376238592?p=v">
+           View summary
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/themotleyfool/reply/1075472115376238592?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1075472115376238592/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1075472115376238592/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/themotleyfool/status/1075472115376238592/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/ChartMaster421/status/1076180111248941057?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/ChartMaster421?p=i">
+          <img alt="ChartMaster" src="https://pbs.twimg.com/profile_images/1069814613946974208/fUWS9dDh_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/ChartMaster421?p=s">
+          <strong class="fullname">
+           ChartMaster
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           ChartMaster421
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/ChartMaster421/status/1076180111248941057?p=p" name="tweet_1076180111248941057">
+          Dec 21
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1076180111248941057">
+          <div class="dir-ltr" dir="ltr">
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           Don’t panic 👻 I’ll post other charts later..
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24QQQ&amp;src=ctag">
+            $QQQ
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24SPY&amp;src=ctag">
+            $SPY
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24DIA&amp;src=ctag">
+            $DIA
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1076180107595735040" data-expanded-path="/ChartMaster421/status/1076180111248941057/photo/1" data-pre-embedded="true" data-tco-id="m8NKA4qMd3" data-url="https://twitter.com/ChartMaster421/status/1076180111248941057/photo/1" dir="ltr" href="https://t.co/m8NKA4qMd3" rel="nofollow" target="_top">
+            pic.twitter.com/m8NKA4qMd3
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="101" src="https://pbs.twimg.com/media/Du9cGyOV4AA526U.jpg:small" width="200"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/ChartMaster421/status/1076180111248941057?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/ChartMaster421/reply/1076180111248941057?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1076180111248941057/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1076180111248941057/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/ChartMaster421/status/1076180111248941057/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/drysvictim/status/1076216431837147136?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/drysvictim?p=i">
+          <img alt="Jennifer Kong" src="https://pbs.twimg.com/profile_images/1047366676759687168/MtIBwW7i_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/drysvictim?p=s">
+          <strong class="fullname">
+           Jennifer Kong
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           drysvictim
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/drysvictim/status/1076216431837147136?p=p" name="tweet_1076216431837147136">
+          Dec 21
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1076216431837147136">
+          <div class="dir-ltr" dir="ltr">
+           my dad is the only man who will ever love me unconditionally
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24aapl&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             aapl
+            </span>
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24spy&amp;src=ctag">
+            $spy
+           </a>
+           <a class="twitter-hashtag dir-ltr" data-query-source="hashtag_click" dir="ltr" href="/hashtag/margincall?src=hash">
+            #margincall
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1076216198499655680" data-expanded-path="/drysvictim/status/1076216431837147136/photo/1" data-pre-embedded="true" data-tco-id="n1A1xtlL6F" data-url="https://twitter.com/drysvictim/status/1076216431837147136/photo/1" dir="ltr" href="https://t.co/n1A1xtlL6F" rel="nofollow" target="_top">
+            pic.twitter.com/n1A1xtlL6F
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="150" src="https://pbs.twimg.com/media/Du987jUX4AAgF0E.jpg:small" width="75"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/drysvictim/status/1076216431837147136?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/drysvictim/reply/1076216431837147136?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1076216431837147136/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1076216431837147136/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/drysvictim/status/1076216431837147136/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/charliebilello/status/1077197931743191040?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/charliebilello?p=i">
+          <img alt="Charlie Bilello" src="https://pbs.twimg.com/profile_images/418814788878098432/FFGyTqns_normal.jpeg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/charliebilello?p=s">
+          <strong class="fullname">
+           Charlie Bilello
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           charliebilello
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/charliebilello/status/1077197931743191040?p=p" name="tweet_1077197931743191040">
+          Dec 24
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077197931743191040">
+          <div class="dir-ltr" dir="ltr">
+           % Below 52-week High...
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24FB&amp;src=ctag">
+            $FB
+           </a>
+           : -43%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           : -35%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AMZN&amp;src=ctag">
+            $AMZN
+           </a>
+           : -33%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24NFLX&amp;src=ctag">
+            $NFLX
+           </a>
+           : -42%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24GOOGL&amp;src=ctag">
+            $GOOGL
+           </a>
+           : -23%
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077197723533754368" data-expanded-path="/charliebilello/status/1077197931743191040/photo/1" data-pre-embedded="true" data-tco-id="BWaO4PkLtu" data-url="https://twitter.com/charliebilello/status/1077197931743191040/photo/1" dir="ltr" href="https://t.co/BWaO4PkLtu" rel="nofollow" target="_top">
+            pic.twitter.com/BWaO4PkLtu
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="150" src="https://pbs.twimg.com/media/DvL5n1AWwAAGFSl.jpg:small" width="181"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/charliebilello/status/1077197931743191040?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/charliebilello/reply/1077197931743191040?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077197931743191040/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077197931743191040/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/charliebilello/status/1077197931743191040/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/charliebilello/status/1077290012717314051?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/charliebilello?p=i">
+          <img alt="Charlie Bilello" src="https://pbs.twimg.com/profile_images/418814788878098432/FFGyTqns_normal.jpeg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/charliebilello?p=s">
+          <strong class="fullname">
+           Charlie Bilello
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           charliebilello
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/charliebilello/status/1077290012717314051?p=p" name="tweet_1077290012717314051">
+          Dec 24
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077290012717314051">
+          <div class="dir-ltr" dir="ltr">
+           December...
+S&amp;P 500: -15%
+Dow: -15%
+Nasdaq 100: -15%
+Russell 2000: -17%
+Crude Oil: -16%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24FB&amp;src=ctag">
+            $FB
+           </a>
+           : -12%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           : -18%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AMZN&amp;src=ctag">
+            $AMZN
+           </a>
+           : -21%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24NFLX&amp;src=ctag">
+            $NFLX
+           </a>
+           : -19%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24GOOGL&amp;src=ctag">
+            $GOOGL
+           </a>
+           : -11%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24C&amp;src=ctag">
+            $C
+           </a>
+           : -24%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24GS&amp;src=ctag">
+            $GS
+           </a>
+           : -18%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24MS&amp;src=ctag">
+            $MS
+           </a>
+           : -17%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24BAC&amp;src=ctag">
+            $BAC
+           </a>
+           : -20%
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24JPM&amp;src=ctag">
+            $JPM
+           </a>
+           : -17%
+***
+Gold: +4%
+20+ Yr Treasuries: +6%
+Yen/Dollar: +3%
+Volatility Index
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24VIX&amp;src=ctag">
+            $VIX
+           </a>
+           : +100%
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <span class="metadata">
+          <a href="/charliebilello/status/1077290012717314051?p=v">
+           View details
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/charliebilello/reply/1077290012717314051?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077290012717314051/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077290012717314051/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/charliebilello/status/1077290012717314051/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <div class="user-list">
+       <table class="user-item">
+        <tr>
+         <td class="avatar" rowspan="2">
+          <img alt="AAPL Stock Alerts" class="profile-image" src="https://pbs.twimg.com/profile_images/378800000693410360/faa6d00b7d8eead61a92b2de708d5a7d_normal.png"/>
+         </td>
+         <td class="info fifty screenname">
+          <a name="SAlphaAAPL">
+          </a>
+          <a data-scribe-action="profile_click" href="/SAlphaAAPL?p=s">
+           <strong class="fullname">
+            AAPL Stock Alerts
+           </strong>
+          </a>
+         </td>
+         <td class="follow-button-container right fifty" rowspan="2">
+          <form action="/i/guest/follow/SAlphaAAPL" method="post">
+           <span class="m2-auth-token">
+            <input name="authenticity_token" type="hidden" value="38ef89802f4182b29e1c6013fba26e434e3ddabb"/>
+           </span>
+           <span class="w-button-common w-button-follow">
+            <input alt="Follow" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/followplus.gif" type="image"/>
+           </span>
+          </form>
+         </td>
+        </tr>
+        <tr>
+         <td class="info">
+          <a href="/SAlphaAAPL?p=s">
+           <span class="username">
+            <span>
+             @
+            </span>
+            SAlphaAAPL
+           </span>
+          </a>
+         </td>
+        </tr>
+       </table>
+       <table class="user-item">
+        <tr>
+         <td class="avatar" rowspan="2">
+          <img alt="AAPLmfc" class="profile-image" src="https://pbs.twimg.com/profile_images/822027053927018499/rV2hIwkh_normal.jpg"/>
+         </td>
+         <td class="info fifty screenname">
+          <a name="aapl_mfc">
+          </a>
+          <a data-scribe-action="profile_click" href="/aapl_mfc?p=s">
+           <strong class="fullname">
+            AAPLmfc
+           </strong>
+          </a>
+         </td>
+         <td class="follow-button-container right fifty" rowspan="2">
+          <form action="/i/guest/follow/aapl_mfc" method="post">
+           <span class="m2-auth-token">
+            <input name="authenticity_token" type="hidden" value="38ef89802f4182b29e1c6013fba26e434e3ddabb"/>
+           </span>
+           <span class="w-button-common w-button-follow">
+            <input alt="Follow" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/followplus.gif" type="image"/>
+           </span>
+          </form>
+         </td>
+        </tr>
+        <tr>
+         <td class="info">
+          <a href="/aapl_mfc?p=s">
+           <span class="username">
+            <span>
+             @
+            </span>
+            aapl_mfc
+           </span>
+          </a>
+         </td>
+        </tr>
+       </table>
+       <table class="user-item">
+        <tr>
+         <td class="avatar" rowspan="2">
+          <img alt="AAPL Trading Room" class="profile-image" src="https://pbs.twimg.com/profile_images/414573879638515712/YJ-zcDzW_normal.png"/>
+         </td>
+         <td class="info fifty screenname">
+          <a name="AAPLRoom">
+          </a>
+          <a data-scribe-action="profile_click" href="/AAPLRoom?p=s">
+           <strong class="fullname">
+            AAPL Trading Room
+           </strong>
+          </a>
+         </td>
+         <td class="follow-button-container right fifty" rowspan="2">
+          <form action="/i/guest/follow/AAPLRoom" method="post">
+           <span class="m2-auth-token">
+            <input name="authenticity_token" type="hidden" value="38ef89802f4182b29e1c6013fba26e434e3ddabb"/>
+           </span>
+           <span class="w-button-common w-button-follow">
+            <input alt="Follow" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/followplus.gif" type="image"/>
+           </span>
+          </form>
+         </td>
+        </tr>
+        <tr>
+         <td class="info">
+          <a href="/AAPLRoom?p=s">
+           <span class="username">
+            <span>
+             @
+            </span>
+            AAPLRoom
+           </span>
+          </a>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div class="user-list-more">
+       <a href="/search/users?q=AAPL&amp;s=typd">
+        View more people
+       </a>
+      </div>
+      <table class="tweet " href="/LogosResearch00/status/1077641456142172161?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/LogosResearch00?p=i">
+          <img alt="LogosResearch" src="https://pbs.twimg.com/profile_images/1074114986329427968/h1Bl7HhM_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/LogosResearch00?p=s">
+          <strong class="fullname">
+           LogosResearch
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           LogosResearch00
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/LogosResearch00/status/1077641456142172161?p=p" name="tweet_1077641456142172161">
+          1h
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077641456142172161">
+          <div class="dir-ltr" dir="ltr">
+           The Saudi Arabia stock exchange didn’t sell off today, but importantly the Tel Aviv stock index
+           <a class="twitter-hashtag dir-ltr" data-query-source="hashtag_click" dir="ltr" href="/hashtag/Tasi?src=hash">
+            #Tasi
+           </a>
+           bounced very high after an initial gap-down drop. This could be a preview of futures and rest of week.
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24spy&amp;src=ctag">
+            $spy
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24spx&amp;src=ctag">
+            $spx
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24ndx&amp;src=ctag">
+            $ndx
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24qqq&amp;src=ctag">
+            $qqq
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24iwm&amp;src=ctag">
+            $iwm
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24rut&amp;src=ctag">
+            $rut
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24es_f&amp;src=ctag">
+            $es_f
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24nq_f&amp;src=ctag">
+            $nq_f
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24aapl&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             aapl
+            </span>
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24amzn&amp;src=ctag">
+            $amzn
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24fb&amp;src=ctag">
+            $fb
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24nvda&amp;src=ctag">
+            $nvda
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077641413884399616" data-expanded-path="/LogosResearch00/status/1077641456142172161/photo/1" data-pre-embedded="true" data-tco-id="8DgTPIumMZ" data-url="https://twitter.com/LogosResearch00/status/1077641456142172161/photo/1" dir="ltr" href="https://t.co/8DgTPIumMZ" rel="nofollow" target="_top">
+            pic.twitter.com/8DgTPIumMZ
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="150" src="https://pbs.twimg.com/media/DvSNKAXUUAAN-pz.jpg:small" width="69"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/LogosResearch00/status/1077641456142172161?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/LogosResearch00/reply/1077641456142172161?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077641456142172161/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077641456142172161/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/LogosResearch00/status/1077641456142172161/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/kerberos007/status/1077639383375929344?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/kerberos007?p=i">
+          <img alt="Kerberos007" src="https://pbs.twimg.com/profile_images/537260346025578496/iU3NE9Py_normal.jpeg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/kerberos007?p=s">
+          <strong class="fullname">
+           Kerberos007
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           kerberos007
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/kerberos007/status/1077639383375929344?p=p" name="tweet_1077639383375929344">
+          2h
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077639383375929344">
+          <div class="dir-ltr" dir="ltr">
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24DJIA&amp;src=ctag">
+            $DJIA
+           </a>
+           Update
+
+Ranked by % decline from 52 wk hi
+
+GS-43%
+IBM-37%
+           <span class="twitter-hit-highlight">
+            AAPL
+           </span>
+           -37%
+DWDP-36%
+CAT-32%
+MMM-31%
+UTX-29%
+XOM-27%
+HD-27%
+BA-25%
+TRV-25%
+CVX-25%
+WBA-24%
+INTC-24%
+JPM-23%
+WMT-22%
+AXP-22%
+NKE-21%
+V-20%
+
+UNH-19%
+MSFT-19%
+CSCO-19%
+JNJ-18%
+DIS-17%
+VZ-14%
+PFE-13%
+MRK-11%
+MCD-11%
+PG-10
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077638422012092417" data-expanded-path="/kerberos007/status/1077639383375929344/photo/1" data-pre-embedded="true" data-tco-id="s8XqbYDoAD" data-url="https://twitter.com/kerberos007/status/1077639383375929344/photo/1" dir="ltr" href="https://t.co/s8XqbYDoAD" rel="nofollow" target="_top">
+            pic.twitter.com/s8XqbYDoAD
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="121" src="https://pbs.twimg.com/media/DvSKb2xX4AEsvh1.jpg:small" width="200"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/kerberos007/status/1077639383375929344?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/kerberos007/reply/1077639383375929344?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077639383375929344/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077639383375929344/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/kerberos007/status/1077639383375929344/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/drysvictim/status/1076168705812414464?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/drysvictim?p=i">
+          <img alt="Jennifer Kong" src="https://pbs.twimg.com/profile_images/1047366676759687168/MtIBwW7i_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/drysvictim?p=s">
+          <strong class="fullname">
+           Jennifer Kong
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           drysvictim
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/drysvictim/status/1076168705812414464?p=p" name="tweet_1076168705812414464">
+          Dec 21
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1076168705812414464">
+          <div class="dir-ltr" dir="ltr">
+           i am in pain
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1076168672354414592" data-expanded-path="/drysvictim/status/1076168705812414464/photo/1" data-pre-embedded="true" data-tco-id="awHjimoc5K" data-url="https://twitter.com/drysvictim/status/1076168705812414464/photo/1" dir="ltr" href="https://t.co/awHjimoc5K" rel="nofollow" target="_top">
+            pic.twitter.com/awHjimoc5K
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="150" src="https://pbs.twimg.com/media/Du9RtKoWsAAL_m_.jpg:small" width="131"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/drysvictim/status/1076168705812414464?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/drysvictim/reply/1076168705812414464?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1076168705812414464/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1076168705812414464/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/drysvictim/status/1076168705812414464/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/ntfri/status/1077627345534627841?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/ntfri?p=i">
+          <img alt="ntfri" src="https://pbs.twimg.com/profile_images/1037004240210677760/a5i_Syce_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/ntfri?p=s">
+          <strong class="fullname">
+           ntfri
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           ntfri
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/ntfri/status/1077627345534627841?p=p" name="tweet_1077627345534627841">
+          2h
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077627345534627841">
+          <div class="dir-ltr" dir="ltr">
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           Apple Inc.
+           <a class="twitter_external_link dir-ltr tco-link" data-expanded-url="http://bit.ly/HWLvmJ" data-url="http://bit.ly/HWLvmJ" dir="ltr" href="https://t.co/8KXF8ukZR9" rel="nofollow noopener" target="_blank" title="http://bit.ly/HWLvmJ">
+            bit.ly/HWLvmJ
+           </a>
+           WEEKLY CHART CLOSE TO 200MA AT 142
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077627186633269248" data-expanded-path="/ntfri/status/1077627345534627841/photo/1" data-pre-embedded="true" data-tco-id="NCIFJhFhpx" data-url="https://twitter.com/ntfri/status/1077627345534627841/photo/1" dir="ltr" href="https://t.co/NCIFJhFhpx" rel="nofollow" target="_top">
+            pic.twitter.com/NCIFJhFhpx
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="150" src="https://pbs.twimg.com/media/DvSAN3uUYAAa-PV.jpg:small" width="160"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/ntfri/status/1077627345534627841?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/ntfri/reply/1077627345534627841?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077627345534627841/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077627345534627841/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/ntfri/status/1077627345534627841/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/drysvictim/status/1076555256488751104?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/drysvictim?p=i">
+          <img alt="Jennifer Kong" src="https://pbs.twimg.com/profile_images/1047366676759687168/MtIBwW7i_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/drysvictim?p=s">
+          <strong class="fullname">
+           Jennifer Kong
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           drysvictim
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/drysvictim/status/1076555256488751104?p=p" name="tweet_1076555256488751104">
+          Dec 22
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1076555256488751104">
+          <div class="dir-ltr" dir="ltr">
+           You better watch out, you better not cry
+Better not pout, I'm telling you why
+Santa Claus is coming hard into my ass
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24FB&amp;src=ctag">
+            $FB
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24SRPT&amp;src=ctag">
+            $SRPT
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24FOMX&amp;src=ctag">
+            $FOMX
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AKAO&amp;src=ctag">
+            $AKAO
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24ALNY&amp;src=ctag">
+            $ALNY
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24GBT&amp;src=ctag">
+            $GBT
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24RYTM&amp;src=ctag">
+            $RYTM
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24SELB&amp;src=ctag">
+            $SELB
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24SGMO&amp;src=ctag">
+            $SGMO
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24CERC&amp;src=ctag">
+            $CERC
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24CNCE&amp;src=ctag">
+            $CNCE
+           </a>
+           Puts I sold got exercised
+           <a class="twitter-hashtag dir-ltr" data-query-source="hashtag_click" dir="ltr" href="/hashtag/nakedput?src=hash">
+            #nakedput
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1076555250478272512" data-expanded-path="/drysvictim/status/1076555256488751104/photo/1" data-pre-embedded="true" data-tco-id="6lql8UIMxC" data-url="https://twitter.com/drysvictim/status/1076555256488751104/photo/1" dir="ltr" href="https://t.co/6lql8UIMxC" rel="nofollow" target="_top">
+            pic.twitter.com/6lql8UIMxC
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="90" src="https://pbs.twimg.com/media/DvCxS-XW0AA0TzU.jpg:small" width="200"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/drysvictim/status/1076555256488751104?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/drysvictim/reply/1076555256488751104?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1076555256488751104/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1076555256488751104/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/drysvictim/status/1076555256488751104/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/everytimeicash/status/1076321378557706240?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/everytimeicash?p=i">
+          <img alt="Wolf" src="https://pbs.twimg.com/profile_images/735885570371518464/zsTWYtgV_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/everytimeicash?p=s">
+          <strong class="fullname">
+           Wolf
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           everytimeicash
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/everytimeicash/status/1076321378557706240?p=p" name="tweet_1076321378557706240">
+          Dec 21
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1076321378557706240">
+          <div class="dir-ltr" dir="ltr">
+           “It’s a bear market you know”
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24NFLX&amp;src=ctag">
+            $NFLX
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1076321376464785409" data-expanded-path="/everytimeicash/status/1076321378557706240/photo/1" data-pre-embedded="true" data-tco-id="UL8wUs9BJp" data-url="https://twitter.com/everytimeicash/status/1076321378557706240/photo/1" dir="ltr" href="https://t.co/UL8wUs9BJp" rel="nofollow" target="_top">
+            pic.twitter.com/UL8wUs9BJp
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="102" src="https://pbs.twimg.com/media/Du_cltxX0AEUhWX.jpg:small" width="200"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/everytimeicash/status/1076321378557706240?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/everytimeicash/reply/1076321378557706240?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1076321378557706240/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1076321378557706240/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/everytimeicash/status/1076321378557706240/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/azwan_/status/1077558834380460033?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/azwan_?p=i">
+          <img alt="Azwan HM" src="https://pbs.twimg.com/profile_images/1001273853157376000/mKfQJp-K_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/azwan_?p=s">
+          <strong class="fullname">
+           Azwan HM
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           azwan_
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/azwan_/status/1077558834380460033?p=p" name="tweet_1077558834380460033">
+          7h
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-reply-context username">
+          Replying to
+          <a href="/azwan_">
+           @azwan_
+          </a>
+         </div>
+         <div class="tweet-text" data-id="1077558834380460033">
+          <div class="dir-ltr" dir="ltr">
+           <a class="twitter-hashtag dir-ltr" data-query-source="hashtag_click" dir="ltr" href="/hashtag/AAPL?src=hash">
+            #
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           , as expected. Breakout retest, momentum.
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077558826386112512" data-expanded-path="/azwan_/status/1077558834380460033/photo/1" data-pre-embedded="true" data-tco-id="aFJDqKkTM9" data-url="https://twitter.com/azwan_/status/1077558834380460033/photo/1" dir="ltr" href="https://t.co/aFJDqKkTM9" rel="nofollow" target="_top">
+            pic.twitter.com/aFJDqKkTM9
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="150" src="https://pbs.twimg.com/media/DvRCCx9UwAAvK98.jpg:small" width="75"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/azwan_/status/1077558834380460033?p=v">
+           View conversation
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/azwan_/reply/1077558834380460033?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077558834380460033/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077558834380460033/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/azwan_/status/1077558834380460033/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/trendandvalue/status/1077617260200714241?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/trendandvalue?p=i">
+          <img alt="Lucas" src="https://pbs.twimg.com/profile_images/1069843871767515136/d7SHF81X_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/trendandvalue?p=s">
+          <strong class="fullname">
+           Lucas
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           trendandvalue
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/trendandvalue/status/1077617260200714241?p=p" name="tweet_1077617260200714241">
+          3h
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077617260200714241">
+          <div class="dir-ltr" dir="ltr">
+           any research out there on the iPod capex cycle at airports?
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077617249781899264" data-expanded-path="/trendandvalue/status/1077617260200714241/photo/1" data-pre-embedded="true" data-tco-id="LNRdeeslfk" data-url="https://twitter.com/trendandvalue/status/1077617260200714241/photo/1" dir="ltr" href="https://t.co/LNRdeeslfk" rel="nofollow" target="_top">
+            pic.twitter.com/LNRdeeslfk
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="112" src="https://pbs.twimg.com/media/DvR3LeEVYAAZ08y.jpg:small" width="200"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/trendandvalue/status/1077617260200714241?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/trendandvalue/reply/1077617260200714241?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077617260200714241/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077617260200714241/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/trendandvalue/status/1077617260200714241/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/aapldotio/status/1077655502849331200?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/aapldotio?p=i">
+          <img alt="aapl.io" src="https://pbs.twimg.com/profile_images/859838392523251712/QVKf2hJm_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/aapldotio?p=s">
+          <strong class="fullname">
+           aapl.io
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           aapldotio
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/aapldotio/status/1077655502849331200?p=p" name="tweet_1077655502849331200">
+          31m
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077655502849331200">
+          <div class="dir-ltr" dir="ltr">
+           These are the 10 best iOS apps to buy with that iTunes gift card you just unwrapped via
+           <a class="twitter-atreply dir-ltr" data-mentioned-user-id="15944436" data-screenname="9to5mac" dir="ltr" href="/9to5mac">
+            @9to5mac
+           </a>
+           <a class="twitter-hashtag dir-ltr" data-query-source="hashtag_click" dir="ltr" href="/hashtag/itunes?src=hash">
+            #itunes
+           </a>
+           <a class="twitter-hashtag dir-ltr" data-query-source="hashtag_click" dir="ltr" href="/hashtag/ios?src=hash">
+            #ios
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link" data-expanded-url="http://dlvr.it/QvLhJf" data-url="http://dlvr.it/QvLhJf" dir="ltr" href="https://t.co/gBuhOiEMrJ" rel="nofollow noopener" target="_blank" title="http://dlvr.it/QvLhJf">
+            dlvr.it/QvLhJf
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077655501150707712" data-expanded-path="/aapldotio/status/1077655502849331200/photo/1" data-pre-embedded="true" data-tco-id="scaTAdHbKw" data-url="https://twitter.com/aapldotio/status/1077655502849331200/photo/1" dir="ltr" href="https://t.co/scaTAdHbKw" rel="nofollow" target="_top">
+            pic.twitter.com/scaTAdHbKw
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="112" src="https://pbs.twimg.com/media/DvSZ9_hVYAA9SSQ.jpg:small" width="200"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/aapldotio/status/1077655502849331200?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/aapldotio/reply/1077655502849331200?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077655502849331200/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077655502849331200/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/aapldotio/status/1077655502849331200/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/aapldotio/status/1077655491151421441?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/aapldotio?p=i">
+          <img alt="aapl.io" src="https://pbs.twimg.com/profile_images/859838392523251712/QVKf2hJm_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/aapldotio?p=s">
+          <strong class="fullname">
+           aapl.io
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           aapldotio
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/aapldotio/status/1077655491151421441?p=p" name="tweet_1077655491151421441">
+          31m
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077655491151421441">
+          <div class="dir-ltr" dir="ltr">
+           Here's how to get started with your new iMac, Mac mini, MacBook, or MacBook Pro via
+           <a class="twitter-atreply dir-ltr" data-mentioned-user-id="20542450" data-screenname="appleinsider" dir="ltr" href="/appleinsider">
+            @appleinsider
+           </a>
+           <a class="twitter-hashtag dir-ltr" data-query-source="hashtag_click" dir="ltr" href="/hashtag/macbookpro?src=hash">
+            #macbookpro
+           </a>
+           <a class="twitter-hashtag dir-ltr" data-query-source="hashtag_click" dir="ltr" href="/hashtag/macbook?src=hash">
+            #macbook
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link" data-expanded-url="http://dlvr.it/QvLh7N" data-url="http://dlvr.it/QvLh7N" dir="ltr" href="https://t.co/z9MWJYI9Vi" rel="nofollow noopener" target="_blank" title="http://dlvr.it/QvLh7N">
+            dlvr.it/QvLh7N
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077655488794263553" data-expanded-path="/aapldotio/status/1077655491151421441/photo/1" data-pre-embedded="true" data-tco-id="YWcsyeq59y" data-url="https://twitter.com/aapldotio/status/1077655491151421441/photo/1" dir="ltr" href="https://t.co/YWcsyeq59y" rel="nofollow" target="_top">
+            pic.twitter.com/YWcsyeq59y
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="133" src="https://pbs.twimg.com/media/DvSZ9RfVAAE5KGs.jpg:small" width="200"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/aapldotio/status/1077655491151421441?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/aapldotio/reply/1077655491151421441?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077655491151421441/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077655491151421441/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/aapldotio/status/1077655491151421441/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/AfrakanEmporium/status/1077615587289894912?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/AfrakanEmporium?p=i">
+          <img alt="Afurakan Emporium" src="https://pbs.twimg.com/profile_images/831503674560032773/zGnJpCKT_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/AfrakanEmporium?p=s">
+          <strong class="fullname">
+           Afurakan Emporium
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           AfrakanEmporium
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/AfrakanEmporium/status/1077615587289894912?p=p" name="tweet_1077615587289894912">
+          3h
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077615587289894912">
+          <div class="dir-ltr" dir="ltr">
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24SPY&amp;src=ctag">
+            $SPY
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24QQQ&amp;src=ctag">
+            $QQQ
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24DJIA&amp;src=ctag">
+            $DJIA
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24NDX&amp;src=ctag">
+            $NDX
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24WTI&amp;src=ctag">
+            $WTI
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24FB&amp;src=ctag">
+            $FB
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AMZN&amp;src=ctag">
+            $AMZN
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24NFLX&amp;src=ctag">
+            $NFLX
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24GOOGL&amp;src=ctag">
+            $GOOGL
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24BRK.B&amp;src=ctag">
+            $BRK.B
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24MA&amp;src=ctag">
+            $MA
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24GS&amp;src=ctag">
+            $GS
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24HD&amp;src=ctag">
+            $HD
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24BA&amp;src=ctag">
+            $BA
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24CAT&amp;src=ctag">
+            $CAT
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24NVDA&amp;src=ctag">
+            $NVDA
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24TLRY&amp;src=ctag">
+            $TLRY
+           </a>
+           etc Brace yourself🤐👀hedge📉his decisions🚨
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077615585033363457" data-expanded-path="/AfrakanEmporium/status/1077615587289894912/photo/1" data-pre-embedded="true" data-tco-id="m8WySiyza5" data-url="https://twitter.com/AfrakanEmporium/status/1077615587289894912/photo/1" dir="ltr" href="https://t.co/m8WySiyza5" rel="nofollow" target="_top">
+            pic.twitter.com/m8WySiyza5
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="150" src="https://pbs.twimg.com/media/DvR1qkZWoAE902s.jpg:small" width="110"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/AfrakanEmporium/status/1077615587289894912?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/AfrakanEmporium/reply/1077615587289894912?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077615587289894912/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077615587289894912/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/AfrakanEmporium/status/1077615587289894912/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/darksoulstocks/status/1077481599317495808?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/darksoulstocks?p=i">
+          <img alt="TheNamelessKing" src="https://pbs.twimg.com/profile_images/1036842897394429953/5cx80fta_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/darksoulstocks?p=s">
+          <strong class="fullname">
+           TheNamelessKing
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           darksoulstocks
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/darksoulstocks/status/1077481599317495808?p=p" name="tweet_1077481599317495808">
+          12h
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077481599317495808">
+          <div class="dir-ltr" dir="ltr">
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24SPY&amp;src=ctag">
+            $SPY
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24SPX&amp;src=ctag">
+            $SPX
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           One day profit doubt me and lose. Been cooking bulls on
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24SPY&amp;src=ctag">
+            $SPY
+           </a>
+           since $280 and
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           since $200
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077481595257348096" data-expanded-path="/darksoulstocks/status/1077481599317495808/photo/1" data-pre-embedded="true" data-tco-id="qSagkSeNdo" data-url="https://twitter.com/darksoulstocks/status/1077481599317495808/photo/1" dir="ltr" href="https://t.co/qSagkSeNdo" rel="nofollow" target="_top">
+            pic.twitter.com/qSagkSeNdo
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="94" src="https://pbs.twimg.com/media/DvP7zVlV4AApX_e.jpg:small" width="200"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/darksoulstocks/status/1077481599317495808?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/darksoulstocks/reply/1077481599317495808?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077481599317495808/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077481599317495808/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/darksoulstocks/status/1077481599317495808/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/AleDizz/status/1077624615688531968?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/AleDizz?p=i">
+          <img alt="Alejandro De la Cruz" src="https://pbs.twimg.com/profile_images/1067480152064516096/wK6YGB8m_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/AleDizz?p=s">
+          <strong class="fullname">
+           Alejandro De la Cruz
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           AleDizz
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/AleDizz/status/1077624615688531968?p=p" name="tweet_1077624615688531968">
+          3h
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077624615688531968">
+          <div class="dir-ltr" dir="ltr">
+           10 of the most traded stocks are out of trend:
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AMZN&amp;src=ctag">
+            $AMZN
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24FB&amp;src=ctag">
+            $FB
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24GOOGL&amp;src=ctag">
+            $GOOGL
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24NFLX&amp;src=ctag">
+            $NFLX
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24TWTR&amp;src=ctag">
+            $TWTR
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24MU&amp;src=ctag">
+            $MU
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24MSFT&amp;src=ctag">
+            $MSFT
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24INTC&amp;src=ctag">
+            $INTC
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24CSCO&amp;src=ctag">
+            $CSCO
+           </a>
+           *20 days/50 days EMA and BBands
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077624523359322112" data-expanded-path="/AleDizz/status/1077624615688531968/photo/1" data-pre-embedded="true" data-tco-id="widKKtoGct" data-url="https://twitter.com/AleDizz/status/1077624615688531968/photo/1" dir="ltr" href="https://t.co/widKKtoGct" rel="nofollow" target="_top">
+            pic.twitter.com/widKKtoGct
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="150" src="https://pbs.twimg.com/media/DvR9y2QVAAAEk8s.jpg:small" width="150"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/AleDizz/status/1077624615688531968?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/AleDizz/reply/1077624615688531968?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077624615688531968/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077624615688531968/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/AleDizz/status/1077624615688531968/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/thefrugalforage/status/1077648269147279365?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/thefrugalforage?p=i">
+          <img alt="The Frugal Forager" src="https://pbs.twimg.com/profile_images/1007903717453107201/Emk_NTCQ_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/thefrugalforage?p=s">
+          <strong class="fullname">
+           The Frugal Forager
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           thefrugalforage
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/thefrugalforage/status/1077648269147279365?p=p" name="tweet_1077648269147279365">
+          1h
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077648269147279365">
+          <div class="dir-ltr" dir="ltr">
+           Cheviot Value Management Has Trimmed Its Apple
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24AAPL&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             AAPL
+            </span>
+           </a>
+           Holding by $325,800; Market Value Declined; Avalon Global Asset Management Upped Holding in Splunk
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24SPLK&amp;src=ctag">
+            $SPLK
+           </a>
+           by $8.91 Million as Stock Price Declined
+           <a class="twitter_external_link dir-ltr tco-link" data-expanded-url="https://finreviewer.com/2018/12/25/cheviot-value-management-has-trimmed-its-apple-aapl-holding-by-325800-market-value-declined-avalon-global-asset-management-upped-holding-in-splunk-splk-by-8-91-million-as-stock-price-declined/" data-url="https://finreviewer.com/2018/12/25/cheviot-value-management-has-trimmed-its-apple-aapl-holding-by-325800-market-value-declined-avalon-global-asset-management-upped-holding-in-splunk-splk-by-8-91-million-as-stock-price-declined/" dir="ltr" href="https://t.co/TcL2xB1wyG" rel="nofollow noopener" target="_blank" title="https://finreviewer.com/2018/12/25/cheviot-value-management-has-trimmed-its-apple-aapl-holding-by-325800-market-value-declined-avalon-global-asset-management-upped-holding-in-splunk-splk-by-8-91-million-as-stock-price-declined/">
+            finreviewer.com/2018/12/25/che…
+           </a>
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077648267553456128" data-expanded-path="/thefrugalforage/status/1077648269147279365/photo/1" data-pre-embedded="true" data-tco-id="a4vs5VyoDm" data-url="https://twitter.com/thefrugalforage/status/1077648269147279365/photo/1" dir="ltr" href="https://t.co/a4vs5VyoDm" rel="nofollow" target="_top">
+            pic.twitter.com/a4vs5VyoDm
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="128" src="https://pbs.twimg.com/media/DvSTY8RWwAARC7b.jpg:small" width="128"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/thefrugalforage/status/1077648269147279365?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/thefrugalforage/reply/1077648269147279365?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077648269147279365/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077648269147279365/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/thefrugalforage/status/1077648269147279365/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+      <table class="tweet " href="/notMiloBejda/status/1077210385365766144?p=v">
+       <tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+         <a href="/notMiloBejda?p=i">
+          <img alt="Not Milos Bejda" src="https://pbs.twimg.com/profile_images/921669841462972417/suwGxabI_normal.jpg"/>
+         </a>
+        </td>
+        <td class="user-info">
+         <a href="/notMiloBejda?p=s">
+          <strong class="fullname">
+           Not Milos Bejda
+          </strong>
+          <div class="username">
+           <span>
+            @
+           </span>
+           notMiloBejda
+          </div>
+         </a>
+        </td>
+        <td class="timestamp">
+         <a href="/notMiloBejda/status/1077210385365766144?p=p" name="tweet_1077210385365766144">
+          Dec 24
+         </a>
+        </td>
+       </tr>
+       <tr class="tweet-container">
+        <td class="tweet-content" colspan="2">
+         <div class="tweet-text" data-id="1077210385365766144">
+          <div class="dir-ltr" dir="ltr">
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24f&amp;src=ctag">
+            $f
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24aapl&amp;src=ctag">
+            $
+            <span class="twitter-hit-highlight">
+             aapl
+            </span>
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24baba&amp;src=ctag">
+            $baba
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24bac&amp;src=ctag">
+            $bac
+           </a>
+           <a class="twitter-cashtag pretty-link js-nav" data-query-source="cashtag_click" dir="ltr" href="/search?q=%24fb&amp;src=ctag">
+            $fb
+           </a>
+           Good morning everyone! ☠️💀🙀
+           <a class="twitter_external_link dir-ltr tco-link has-expanded-path" data-entity-id="1077210368794025985" data-expanded-path="/notMiloBejda/status/1077210385365766144/photo/1" data-pre-embedded="true" data-tco-id="03ENDF8F4I" data-url="https://twitter.com/notMiloBejda/status/1077210385365766144/photo/1" dir="ltr" href="https://t.co/03ENDF8F4I" rel="nofollow" target="_top">
+            pic.twitter.com/03ENDF8F4I
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td class="meta-and-actions" colspan="2">
+         <div class="card-photo">
+          <div class="media">
+           <img height="150" src="https://pbs.twimg.com/media/DvMFH4RV4AEhjBy.jpg:small" width="115"/>
+          </div>
+          <div class="description">
+          </div>
+         </div>
+         <span class="metadata">
+          <a href="/notMiloBejda/status/1077210385365766144?p=v">
+           View photo
+          </a>
+          <span class="middot">
+           ·
+          </span>
+         </span>
+         <span class="tweet-actions">
+          <a class="first" href="/notMiloBejda/reply/1077210385365766144?p=r">
+           <img alt="Reply" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_reply.gif"/>
+          </a>
+          <a href="/statuses/1077210385365766144/retweet?p=t">
+           <img alt="Retweet" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_rt.gif"/>
+          </a>
+          <a class="favorite" href="/statuses/1077210385365766144/favorite?p=f&amp;authenticity_token=38ef89802f4182b29e1c6013fba26e434e3ddabb">
+           <img alt="Like" src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/images/sprites/tweet_heart.gif"/>
+          </a>
+          <a class="last" href="/notMiloBejda/status/1077210385365766144/actions">
+          </a>
+         </span>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div class="w-button-more">
+      <a href="/search?q=AAPL&amp;s=typd&amp;next_cursor=thGAVUV0VFVBaAwKLZi_7M9B0WgMCi2Yv-zPQdEhjIBQQ9VDthRbvUAAAAAAAAFXwAAAAHAAAAVgBBAAAAAACAAAAAgAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAACAIAAAQAAAAAAAAAgAAQAAAAAAAAAAgAAAAABEAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAIAQAAAAAAAAAAgAAAAQAAAAAIAAAAAAAAAAAAAAAgAAAAEAEAAAIAAAAAAAACAAAAAAAAAAAAAAAAgAAAAFAAIACEQAAAAAAAAACAgAAAAAAAAAAAIAAAAAgAAAAQAAgAAAAAAAAAgAAAAAAAAAIAQAAAABACAEAAAAABAAAAAAACkAICAAAAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAAABIAAIAAAQAAAAAAAAAAAAAAIAAAAAAAAAAAAQAICAAAQAAAGAAAAAAAAAAAAAAAAAAAIAIAAAQAAAAAIAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAACAAAgAACCAAAAAAAAAAAAAEAAAAIAAAAAAAwAAAAAAAAAAAAAAMABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAAEAAIAAAAACAAAAAAAAAAAABAAAAAAAYAAAAAAAAEAAAAAAAIAAAAAAAAACAAAAAAAAAgQAAAAAAACAAAAAAAAAAAAAAAABAAAAAIAAAAAAIAAYAAAAAAAAIAQIEAAAAAEIAAAAIAAAAAAAAAEAAAACAAAAgAAAAQAAAAAAAAACIQAAAAAAAABAAAAEAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAAAAABAIAAEAgAEAAAAAAAAAAAgAIAAAAAAAAAAAAAMAAgEAAAIAAAAVABUAFQAlAAA%3D">
+       Load older Tweets
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <div class="view-actions">
+     <a href="#top">
+      Back to top
+     </a>
+     ·
+     <a href="/settings/profile_images">
+      Turn images off
+     </a>
+    </div>
+   </div>
+  </div>
+  <script id="scribe-configuration" type="application/json">
+   {"page":"search"}
+  </script>
+  <script src="https://ma.twimg.com/twitter-mobile/3010d5e15915cc908e62a14eb1ffb7d95c1248b6/assets/base.js" type="text/javascript">
+  </script>
+  <img height="0" src="/i/anonymize?data=%5B%7B%22integration%22%3A%22ga%22%2C%22ref%22%3A%22%22%2C%22mobileMetricsToken%22%3A%22154576995728545817%22%7D%5D" style="opacity: 0" width="0"/>
+ </body>
+</html>
