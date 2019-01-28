@@ -6,9 +6,9 @@ import shutil
 tf.logging.set_verbosity(tf.logging.INFO)
 
 # Read data
-df = pandas.read_csv('../data/NASDAQ_symbols_timeseries_missingpairing.csv')
+df = pandas.read_csv('../data/NASDAQ_symbols_timeseries.csv')
 # Drop unneeded columns
-df.drop(['ticker', 'startdate'], axis = 1, inplace = True)
+df.drop(['ticker', 'startdate', 'updown'], axis = 1, inplace = True)
 
 DAYS_IN_ADVANCE = 100
 
@@ -46,7 +46,7 @@ train_fn, test_fn = make_input_fn('train', train_epochs), make_input_fn('test', 
 
 # DNN Regressor
 def train_and_evaluate(output_dir, num_train_steps):
-	myopt = tf.train.AdamOptimizer(learning_rate = 0.0005) # note the learning rate
+	myopt = tf.train.AdamOptimizer(learning_rate = 0.00005) # note the learning rate
 	estimator = tf.estimator.DNNRegressor(
 				model_dir = output_dir, 
 				hidden_units = [64, 32, 16],
@@ -71,5 +71,5 @@ def train_and_evaluate(output_dir, num_train_steps):
 			)
 	tf.estimator.train_and_evaluate(estimator, train_spec, eval_spec)
 
-shutil.rmtree('./outdir', ignore_errors = True)
+#shutil.rmtree('./outdir', ignore_errors = True)
 train_and_evaluate('./outdir', num_train_steps = (100 * len(train)) / 128)

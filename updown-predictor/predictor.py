@@ -48,7 +48,7 @@ train_fn, test_fn = make_input_fn('train', train_epochs), make_input_fn('test', 
 
 # DNN Regressor
 def train_and_evaluate(output_dir, num_train_steps):
-	myopt = tf.train.AdamOptimizer(learning_rate = 0.0005) # note the learning rate
+	myopt = tf.train.AdamOptimizer(learning_rate = 0.00005) # note the learning rate
 	estimator = tf.estimator.DNNRegressor(
 				model_dir = output_dir, 
 				hidden_units = [64, 32, 16],
