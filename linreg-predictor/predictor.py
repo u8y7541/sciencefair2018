@@ -1,3 +1,10 @@
+# This program loops through the stock data from
+# preprocess_nasdaq.py. For each sample, it performs simple
+# linear regression on the 100 days of data to get the 101st
+# day. It then adds to the closeness and directional RMSEs.
+# Finally, it finalizes the RMSE calculations and displays
+# the RMSEs.
+
 import csv
 import numpy as np
 
@@ -35,7 +42,6 @@ for row in reader:
 	direction = (0 if diff<0 else 1)
 	expected = (0 if row[DAYS_IN_ADVANCE]<row[DAYS_IN_ADVANCE+1] else 1)
 	rmse_dir += (direction-expected)**2
-	#rmse_dir += (direction - (np.float64(row[DAYS_IN_ADVANCE+4])+1)/2)**2
 	
 	index += 1
 	if index % 10000 == 0:

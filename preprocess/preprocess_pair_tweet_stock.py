@@ -1,3 +1,13 @@
+# This program first finds an average positive, negative and
+# neutral score for each company for each day based on the
+# Twitter data gathered by preprocess_twitter_website_2.py.
+# Then, it loops through the stock data from
+# preprocess_nasdaq.py and matches the hundred days of
+# stock data in each sample in this file to a corresponding
+# hundred days of positive, negative, and neutral average
+# Twitter sentiment scores. It then saves the combined data
+# to a CSV (Comma Separated Value) file.
+
 import pandas
 import csv
 import time

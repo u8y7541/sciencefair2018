@@ -1,3 +1,15 @@
+# This program reads the input data and adds some
+# engineered features to the dataset (2-day moving average,
+# average across full dataset). Then, it splits the dataset
+# into train (80%) and test (20%) datasets. It then uses
+# the TensorFlow estimator API to create a neural network
+# and specifies hyperparameters to start training it. The
+# training can be stopped manually or will automatically
+# stop after the maximum training steps is reached. The
+# neural network model is saved to a directory after
+# every evaluation so that it can be accessed after
+# training for prediction.
+
 import tensorflow as tf
 import pandas
 import numpy as np

@@ -1,3 +1,11 @@
+# This program loops through all dates from the beginning
+# of 2012, and for each date it loops through each of 9
+# tickers (these were chosen because they are mentioned
+# frequently on Twitter). For each of the tickers, it
+# finds the Tweets about that ticker on that day, then
+# saves these Tweets along with their sentiment scores in
+# a CSV (Comma Separated Value) file.
+
 from bs4 import BeautifulSoup
 import requests
 import datetime
@@ -9,10 +17,6 @@ now = datetime.date.today()
 start = datetime.date(2012, 1, 1)
 currentDay = datetime.date(2012, 1, 1)
 day = datetime.timedelta(days = 1)
-
-#tickersFile = open('../data/NASDAQ_symbols_twitter/tickers')
-#tickers = [i[:-1].upper() for i in tickersFile.readlines()]
-#tickersFile.close()
 
 tickers = ['AAPL', 'AMZN', 'GOOG', 'TSLA', 'YHOO', 'MSFT', 'EBAY', 'FB', 'TWTR']
 

@@ -6,7 +6,7 @@ import shutil
 tf.logging.set_verbosity(tf.logging.INFO)
 
 # Read data
-df = pandas.read_csv('../data/NASDAQ_symbols_timeseries_missingpairing.csv')
+df = pandas.read_csv('../data/NASDAQ_symbols_timeseries.csv')
 # Drop "next" column because we only want to predict if the stock moves up or down, as well as unneeded columns
 df.drop(['next', 'ticker', 'startdate'], axis = 1, inplace = True)
 

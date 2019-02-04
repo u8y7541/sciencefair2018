@@ -78,5 +78,5 @@ def train_and_evaluate(output_dir, num_train_steps):
 			)
 	tf.estimator.train_and_evaluate(estimator, train_spec, eval_spec)
 
-shutil.rmtree('./outdir', ignore_errors = True)
+#shutil.rmtree('./outdir', ignore_errors = True)
 train_and_evaluate('./outdir', num_train_steps = (100 * len(train)) / 128)

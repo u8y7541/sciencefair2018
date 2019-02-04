@@ -1,3 +1,9 @@
+# This program first gets the stock tickers, then loops through
+# them to get all possible stock data from Quandl for them.
+# Then it loops through the stock data, gets every possible
+# slice of 100 days of stock data, normalizes this slice, and
+# saves it along with the 101st day which should be predicted.
+
 import quandl
 import pandas
 import random
